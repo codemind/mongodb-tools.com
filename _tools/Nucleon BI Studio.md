@@ -3,19 +3,19 @@
 name: Nucleon BI Studio
 
 # Software language (if applicable, see _data/attr.yml)
-language: 
+language: C#
 
 # License (should be listed in _data/attr.yml)
 license: Commercial
 
 # Maintained: "Actively Maintained", "Inactive", "Unknown"
-maintained: Unknown
+maintained: Actively Maintained
 
 # url of support forum
-support: 
+support: https://nucleonsoftware.com/resources/support-2/
 
 # homepage url
-officialUrl: http://www.nucleonsoftware.com/Products/Nucleon-BI-Studio
+officialUrl: https://nucleonsoftware.com/products/nucleon-bistudio/
 
 # supported operating systems (if applicable)
 environments:
@@ -29,7 +29,7 @@ mongodb_versions:
 #- 3.0
 
 # (optional) minimum MongoDB version
-minimum_mongodb_version:
+minimum_mongodb_version: 1.4
 
 # (optional) Support for MongoDB Enterprise features? None, Limited, Full
 mongodb_enterprise_support: 
@@ -38,14 +38,14 @@ mongodb_enterprise_support:
 purpose: Business Intelligence
 
 # Short description of tool
-description: A tool for business intelligence, data reporting, data visualization, data mining, and data analysis.
+description: A tool for business intelligence, dashboarding, charting, reporting, data visualization, data mining and data analysis.
 
 # image should be added to the img/ directory, ideally 370x200px
-img: nucleon.png
+img: nucleon-bistudio256.png
 
 # Release Info
-latest_release_version: 9.2
-latest_release_date: 
+latest_release_version: 11.3
+latest_release_date: 2021-02-21
 
 # Github Info
 github_user: 

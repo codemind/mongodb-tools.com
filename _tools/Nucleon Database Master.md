@@ -3,19 +3,19 @@
 name: Nucleon Database Master
 
 # Software language (if applicable, see _data/attr.yml)
-language: Unknown
+language: C#
 
 # License (should be listed in _data/attr.yml)
 license: Commercial
 
 # Maintained: "Actively Maintained", "Inactive", "Unknown"
-maintained: Unknown
+maintained: Actively Maintained
 
 # url of support forum
-support:
+support: https://nucleonsoftware.com/resources/support-2/
 
 # homepage url
-officialUrl: http://www.nucleonsoftware.com/Products/Database-Master
+https://nucleonsoftware.com/products/database-master/
 
 # supported operating systems (if applicable)
 environments:
@@ -29,7 +29,7 @@ mongodb_versions:
 #- 3.0
 
 # (optional) minimum MongoDB version
-minimum_mongodb_version:
+minimum_mongodb_version: 1.4
 
 # (optional) Support for MongoDB Enterprise features? None, Limited, Full
 mongodb_enterprise_support: 
@@ -41,11 +41,11 @@ purpose: GUI
 description: An administration tool for managing, querying, editing, visualizing, designing and reporting on MongoDB.
 
 # image should be added to the img/ directory, ideally 370x200px
-img: nucleon.png
+img: nucleon-databasemaster256.png
 
 # Release Info
-latest_release_version: 9.2
-latest_release_date: 2017-03-04
+latest_release_version: 11.3
+latest_release_date: 2021-02-21
 
 # Github Info
 github_user: 
